@@ -1,0 +1,11 @@
+2023-01-27 13:39:17,699 INFO     Connection with Amazon succeeded
+2023-01-27 13:39:18,857 INFO     Logging complete
+2023-01-27 13:39:30,442 INFO     Address not found
+2023-01-27 13:39:31,508 INFO     Address not found
+2023-01-27 13:39:32,585 INFO     Address not found
+2023-01-27 13:39:33,644 INFO     Address not found
+2023-01-27 13:39:34,690 INFO     Address not found
+2023-01-27 13:39:35,739 INFO     Address not found
+2023-01-27 13:39:40,401 INFO     Connection with JIRA completed
+2023-01-27 13:39:43,763 INFO     Successfully logged in JIRA
+2023-01-27 13:39:53,763 INFO     New bug added successfully
